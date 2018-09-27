@@ -1,3 +1,3 @@
 def square_array(array)
-  array.each do |squared|
+  array.each do |integer|
 end
